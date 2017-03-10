@@ -2,6 +2,9 @@
 Forked from Arch-Silence GRUB2 theme
 
 My flat white cat GRUB2 theme.
+<img src="https://github.com/caninja/light-silence/blob/master/scrot.png" width="666">
+
+(picture taken on VM)
 
 ## Install
 To enable themes in grub2, add the line below to /etc/default/grub
