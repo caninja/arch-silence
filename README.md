@@ -5,6 +5,7 @@ My flat white cat GRUB2 theme.
 
 ## Install
 To enable themes in grub2, add the line below to /etc/default/grub
+
   GRUB_THEME=/boot/grub/themes/light-silence/theme.txt
 
 ## Font
@@ -19,6 +20,7 @@ If not explicitly stated otherwise all the files in this project are distributed
 
 ## Picture found here:
 google: tree silhouette cat
+
 https://openclipart.org/download/260551/Curly-Tailed-Cat-On-Tree-Silhouette.svg
 
 ## Author
